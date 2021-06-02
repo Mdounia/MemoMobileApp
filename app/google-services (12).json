@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "323271670428",
+    "firebase_url": "https://memoapplication-3756c-default-rtdb.firebaseio.com",
+    "project_id": "memoapplication-3756c",
+    "storage_bucket": "memoapplication-3756c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323271670428:android:d55b54a1fb9e44573f4b59",
+        "android_client_info": {
+          "package_name": "com.example.alzheimerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323271670428-c8p4j0egecc77251gga3cvbpp9g4bfs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6tBlxIf55_Ojb3MkZq45hFXQdLW0-Jts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323271670428-c8p4j0egecc77251gga3cvbpp9g4bfs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
